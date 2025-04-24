@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, nice to meet you online! My name is Jingyuan Li and I'll be very happy if you could call me William! It is my great pleasure to share my experience and idea online with you! Hope that we can be good friends no matter online or personally!
+Hello, nice to meet you online! My name is Jingyuan Li and you can call me William! It is my great pleasure to share my experience and idea online with you! Hope that we can be good friends no matter online or personally!
 
 My Journey in Study
 ------
