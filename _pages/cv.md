@@ -26,12 +26,12 @@ Education/教育
   * Core Courses: Microelectronics Systems (A1), Circuits Analysis and Design (A5), Embedded Processors (A4), Electronics System and Deisgn (A2), Electronic Devices (A2), Dynamics and Control (A3), Artificial Intelligience and Machine Learning (A4), Power Electronics (B1), VLSI Design (A3), Information System (A4), Team Design Project (A3)
 
 * 加利福尼亚大学圣地亚哥分校 - 电子与计算机工程硕士（模拟与混合信号集成电路）
- * 核心课程：模拟基础电路设计，CMOS电路设计，通信（射频）电路设计，高速总线通信系统，集成电路版图设计，生物集成电路
+  * 核心课程：模拟基础电路设计，CMOS电路设计，通信（射频）电路设计，高速总线通信系统，集成电路版图设计，生物集成电路
 
 * 电子科技大学（985）- 电子信息工程学士
- * 核心课程：微积分，线性代数，物理，模拟电路，数字逻辑，信号与系统，电磁场与波
+  * 核心课程：微积分，线性代数，物理，模拟电路，数字逻辑，信号与系统，电磁场与波
 
- * 格拉斯哥大学（QS100）- 电子与电气工程学士
+* 格拉斯哥大学（QS100）- 电子与电气工程学士
   * 核心课程：微电子系统，电路分析，嵌入式系统，电子系统设计，电子器件，控制学，人工智能与机器学习，超大规模集成电路设计，信息系统
 
 
@@ -43,9 +43,9 @@ Professional Experience/专业经历
   * Delivered lab instructions to students, including the utilization of SPICE software and basic applications of programming languages, etc.
 
 * 电子科技大学格拉斯哥学院助教 （2023年9月-2024年6月）
- * 协助教学《微电子系统》《电路分析与设计》《嵌入式处理器》 等课程，指导电路实验和期末设计项目；负责课堂答疑、作业批改等教学任务，覆盖学生人数超 1500人。
- * 负责电路实验相关的硬件软件教学，包括电路仿真软件中的原理图建模，不同类型的仿真环境搭建，以及示波器的使用等。
- * 负责总结教学文档，提炼课程教学中的重要知识点，制作模考案例，并主持课程复习讲座。
+  * 协助教学《微电子系统》《电路分析与设计》《嵌入式处理器》 等课程，指导电路实验和期末设计项目；负责课堂答疑、作业批改等教学任务，覆盖学生人数超 1500人。
+  * 负责电路实验相关的硬件软件教学，包括电路仿真软件中的原理图建模，不同类型的仿真环境搭建，以及示波器的使用等。
+  * 负责总结教学文档，提炼课程教学中的重要知识点，制作模考案例，并主持课程复习讲座。
 
 
 Skills/技能
