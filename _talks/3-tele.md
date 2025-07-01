@@ -13,7 +13,6 @@ location: "San Diego, CA, USA"
 * Designed a common-mode feedback circuit that forms a feedback loop between the output node and the gate bias point of the NMOS current source, to stabilize the common-mode level and improve input-output linearity.
 * Designed a constant-gm reference circuit to generate a stable bias current source, and built the amplifier's biasing network using current mirrors and replicated bias branches.
 * Achieved a gain of 61.6 dB, a 1 GHz gain-bandwidth product, a phase margin of 73 degrees, and a gain margin of 18 dB.
-
 * 为蓝牙接收器中的转阻放大器设计一个增益大于60 dB，增益带宽积接近1 GHz的运算放大器，实现0.5伏的共模输入和输出。
 * 采用套筒-共源-源跟随器结构，采用PMOS输入，在一二级之间引入密勒补偿，以此满足高增益和准确的带宽；确定电路结构设计后，利用65nm工艺库的电子迁移率等相关数据计算晶体管尺寸和补偿电容、调零电阻等的数值。
 * 设计了共模反馈电路，在输出点和NMOS电流源栅极偏置点之间形成反馈回路，以用于稳定共模点，提高输入输出间的线性度。
