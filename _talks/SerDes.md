@@ -1,5 +1,5 @@
 ---
-title: "Design of a 10Gb/s Tunable Voltage-Mode Transmitter Driver with 3-Tap FFE in 65nm CMOS/基于65nm CMOS工艺的10 Gb/s可调权重前馈均衡发射驱动器设计"
+title: "Design of a 10Gb/s Tunable Voltage-Mode Transmitter Driver with 3-Tap FFE in 65nm CMOS"
 collection: talks
 type: "Project Manager"
 permalink: /talks/SerDes

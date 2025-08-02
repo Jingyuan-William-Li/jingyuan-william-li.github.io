@@ -39,7 +39,7 @@ Huangnan, Qinghai, China
 * Tried to continously supporting the students by using scholarships I obtained, and plan to establish a fund for students there after I finish my master study and start working.
 * See our team's 10+ years work in Qinghai at [HERE](https://weibo.com/aizhiyiuestc) !
 
-Representative of Study/学习委员 (Sep 2020 - Jun 2024)
+Representative of Study (Sep 2020 - Jun 2024)
 -----
 Chengdu, Sichuan, China
 * Manage 5 study groups in a class of 38.
