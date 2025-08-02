@@ -1,5 +1,5 @@
 ---
-title: "Design of a 9-bit SAR ADC Layout Based on TSMC 65nm CMOS/基于65nm CMOS工艺的9位SAR ADC版图设计（流片）"
+title: "Design of a 9-bit SAR ADC Layout in 65nm CMOS"
 collection: talks
 type: "Project Manager"
 permalink: /talks/SAR
