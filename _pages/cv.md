@@ -11,7 +11,7 @@ redirect_from:
 * Download my CV/Resume [HERE](/files/JingyuanLi_Resume.pdf) ~
 * 这是我的 [中文简历](/files/李敬元-简历.pdf) ~
 
-Education/教育
+Education
 -------
 * M.S. in Electrical and Computer Engineering, [University of Claifornia San Diego](https://www.ucsd.edu/), 2026
   * GPA: 3.5/4.0
