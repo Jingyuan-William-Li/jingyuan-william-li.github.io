@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-* My English CV is being revised currently.
+* Here is my [CV](/files/JingyuanLi_CV.pdf).
 * 这是我的 [中文简历](/files/李敬元-简历-加利福尼亚大学圣地亚哥分校.pdf) ~
 
 Education
