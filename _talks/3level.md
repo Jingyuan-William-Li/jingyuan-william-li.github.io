@@ -1,5 +1,5 @@
 ---
-title: "Design of a 1.8V–0.8V 3-Level Hybrid Buck Converter Based on 65nm CMOS (Onging)"
+title: "Design of a 1.8V–0.8V 3-Level Hybrid Buck Converter Based on 65nm CMOS (On-going)"
 collection: talks
 type: "Project Manager"
 permalink: /talks/3level
