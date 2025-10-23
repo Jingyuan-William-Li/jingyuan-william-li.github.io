@@ -1,5 +1,5 @@
 ---
-title: "Design of a 9-bit SAR ADC Layout in 65nm CMOS"
+title: "Design of a 9-bit SAR ADC Layout in 65nm CMOS (Taped-Out)"
 collection: talks
 type: "Project Manager"
 permalink: /talks/SAR
@@ -13,4 +13,4 @@ location: "San Diego, CA, USA"
 * Implemented the successive approximation algorithm in Verilog and converted it into digital layout for the SAR ADC control logic using automated scripts.
 * Designed a decoupling capacitor using NMOS devices and 7-layer interdigitated metal structures; completed top-level schematic and Pad Ring layout; verified full-chip DRC and LVS compliance.
 * Measured quantization noise and distortion noise of the SAR ADC before and after filling, and for the full chip; achieved a final signal-to-noise ratio (SNR) of approximately 49 dB, qualifying for tape-out.
-
+* Design a motherboard-daughter PCB system including COB package, power, SE-DE, buffers etc., for the SAR ADC testing.
