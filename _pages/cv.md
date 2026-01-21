@@ -14,7 +14,7 @@ redirect_from:
 Education
 -------
 * M.S. in Electrical and Computer Engineering, [University of Claifornia San Diego](https://www.ucsd.edu/), 2026
-  * GPA: 3.5/4.0
+  * GPA: 3.52/4.0
   * Core Coures: Analog Integrated Circuits Design, CMOS Circuits Design, Communication Circuit Design, High-Speed Wireline Communication & Systems, Integrated Circuits Layout Design, Biomedical Integrated Circuits
 
 * B.Eng. in Electronic Information Engineering, [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/), 2024
