@@ -1,10 +1,10 @@
 ---
-title: "Design of a 1.8V–0.8V 3-Level Hybrid Buck Converter Based on 65nm CMOS (On-going)"
+title: "Design of a 1.8V–0.8V 3-Level Hybrid Buck Converter Based on 45nm CMOS (On-going)"
 collection: talks
 type: "Project Manager"
 permalink: /talks/3level
 venue: "University of California San Diego, Department of Electrical and Computer Engineering"
-date: 2025-10-15
+date: 2026-01-03
 location: "San Diego, CA, USA"
 ---
 
