@@ -22,7 +22,7 @@ repository               : "Jingyuan-William_Li/jingyuan-william-li.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jingyuan.JPG"
+  avatar           : "mypic.jpg"
   name             : "Jingyuan (Wiliam) Li"
   pronouns         : "李敬元"  
   bio              : "Analog/Mixed-Signal IC Design"
