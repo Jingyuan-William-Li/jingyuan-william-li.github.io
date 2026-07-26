@@ -1,5 +1,5 @@
 ---
-title: "Design of a 1.8V–0.8V DC-DC Buck Converter Based on 65nm CMOS"
+title: "Design of a 1.8V-0.8V DC-DC Buck Converter Based on 65nm CMOS"
 collection: talks
 type: "Project Manager"
 permalink: /projects/PMIC
