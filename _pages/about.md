@@ -9,11 +9,13 @@ redirect_from:
 
 Hello, nice to meet you online! My name is Jingyuan Li and you can call me William! It is my great pleasure to share my experience and idea online with you! Hope that we can be good friends no matter online or personally!
 
-My Journey in Study
+My Experience
 ------
-I am currently an M.S. Student at University of California San Diego, majoring in Electrical and Computer Engineering, and my current focus is Analog/Mixed-Signal integrated circuit design. 
+I am currently an junior analog integrated circuit design engineer at HUAXIN semiconductor basing Shanghai, China.
 
-Before I come to America, I was educated with a dual-degree undergraduate program hold by the University of Electronic Sience and Technology of China (UESTC, Chinese Top 30, Project 985) and the University of Glasgow (UoG, QS 78) in the field of Electronics and Electrical Engineering, where I received the Scholarship for Excellect Students for 3 times (once 10% level, twice 25% level), and was honored as First-Class before graduation.
+In 2026, I became an M.S. honored by the University of California San Diego (UCSD, USNEWS 23), majoring in Electrical and Computer Engineering.
+
+Before studying in America, I graduated from a dual-degree undergraduate program hold by the University of Electronic Sience and Technology of China (UESTC, Chinese Top 30, Project 985) and the University of Glasgow (UoG, QS 78) in the field of Electronics and Electrical Engineering, where I received the Scholarship for Excellect Students for 3 times (once 10% level, twice 25% level), and was honored as First-Class.
 
 Intrests & Skills
 ------
