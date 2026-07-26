@@ -2,7 +2,7 @@
 title: "Design of a 10Gb/s Tunable Voltage-Mode Transmitter Driver with 3-Tap FFE in 65nm CMOS"
 collection: talks
 type: "Project Manager"
-permalink: /talks/SerDes
+permalink: /projects/SerDes
 venue: "University of California San Diego, Department of Electrical and Computer Engineering"
 date: 2025-03-21
 location: "San Diego, CA, USA"

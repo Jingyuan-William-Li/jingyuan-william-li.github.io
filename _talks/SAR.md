@@ -2,7 +2,7 @@
 title: "Design of a 9-bit SAR ADC Layout in 65nm CMOS (Taped-Out)"
 collection: talks
 type: "Project Manager"
-permalink: /talks/SAR
+permalink: /projects/SAR
 venue: "University of California San Diego, Department of Electrical and Computer Engineering"
 date: 2025-06-17
 location: "San Diego, CA, USA"

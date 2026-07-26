@@ -2,7 +2,7 @@
 title: "Design of a Multitasking Smart Robot Vehicle"
 collection: talks
 type: "Main Project Designer"
-permalink: /talks/TDPS
+permalink: /projects/TDPS
 venue: "University of Glasgow, James Watt School of Engineering"
 date: 2023-06-06
 location: "Chengdu, Sichuan, China"

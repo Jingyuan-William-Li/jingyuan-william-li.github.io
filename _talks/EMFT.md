@@ -2,7 +2,7 @@
 title: "Design and Analysis of a 2.4 GHz Printed Dipole Antenna"
 collection: talks
 type: "Team Leader"
-permalink: /talks/EMFT
+permalink: /projects/EMFT
 venue: "University of Electonic Science and Technology ogf China, Glasgow College"
 date: 2023-05-31
 location: "Chengdu, Sichuan, China"

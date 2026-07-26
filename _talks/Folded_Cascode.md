@@ -2,7 +2,7 @@
 title: "Design of a 2-Stage Folded Cascode Amplifier in 180nm CMOS"
 collection: talks
 type: "Project Manager"
-permalink: /talks/Folded_Cascode
+permalink: /projects/Folded_Cascode
 venue: "UC San Diego, Department of Electrical and Computer Engineering"
 date: 2024-11-29
 location: "San Diego, CA, USA"

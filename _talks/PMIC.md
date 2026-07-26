@@ -2,7 +2,7 @@
 title: "Design of a 1.8V–0.8V DC-DC Buck Converter Based on 65nm CMOS"
 collection: talks
 type: "Project Manager"
-permalink: /talks/PMIC
+permalink: /projects/PMIC
 venue: "University of California San Diego, Department of Electrical and Computer Engineering"
 date: 2025-12-10
 location: "San Diego, CA, USA"

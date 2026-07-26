@@ -2,7 +2,7 @@
 title: "Research on the Modeling of Computing-in-Memory Architecture with SRAM-based Macro"
 collection: talks
 type: "Project Manager, Final Year Project"
-permalink: /talks/CIM
+permalink: /projects/CIM
 venue: "University of Electonic Science and Technology ogf China, Glasgow College"
 date: 2024-04-26
 location: "Chengdu, Sichuan, China"
@@ -13,4 +13,3 @@ location: "Chengdu, Sichuan, China"
 * Constructed the peripheral control circuits, including the CIM value decoder and a 7-level adder tree, enabling the CIM array to perform Multiplication & Accumulation operation in convolutional neural networks.
 * Designed an address controller to store a value into several address places each time, which improved the computational parallelism.
 * Evaluated the performance by emulating the computation process of convolutional layer computation through the circuit macro, which confirmed that only 34% of clock periods was required when using 3*3 kernel compared with conventional computation methods.
-

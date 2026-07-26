@@ -2,7 +2,7 @@
 title: "Pneumonia Image Classification based on Convolutional Neural Network"
 collection: talks
 type: "Project Member"
-permalink: /talks/CNN
+permalink: /projects/CNN
 venue: "Nangyang Technological University, Bussiness AI Lab"
 date: 2022-09-06
 location: "Singapore (Online)"

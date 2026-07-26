@@ -2,7 +2,7 @@
 title: "Embedded Password Security System Design"
 collection: talks
 type: "Project Designer"
-permalink: /talks/Password
+permalink: /projects/Password
 venue: "Glasgow College, UESTC"
 date: 2022-05-30
 location: "Chengdu, Sichuan, China"
