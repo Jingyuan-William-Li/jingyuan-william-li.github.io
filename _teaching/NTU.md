@@ -2,7 +2,7 @@
 title: "Artificial Intelligence Summer Research Intern"
 collection: teaching
 type: "Summer School"
-permalink: /teaching/NTU
+permalink: /extrastudy/NTU
 venue: "Nanyang Technological University, Business AI Lab"
 date: 2022-09-06
 location: "Singapore (Online)"
