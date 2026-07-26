@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 * Here is my [CV](/files/JingyuanLi_CV.pdf).
-* 这是我的[中文简历](/files/李敬元-简历.pdf)。
 
 Education
 -------
