@@ -37,7 +37,7 @@ Skills
 * Programming: C/C++, Python, MATLAB & Simulink, ASM
 * Other Fields of Engineering: SolidWorks, Mbed
 * Working Effciency: Microsoft Office, Original Lab, Notion
-* Language: Chinese (Native), Engilish (Fluent), Japanese (Beginner)
+* Language: Chinese (Native), Engilish (Skillful), Japanese (Basic)
 
 Publications
 ------
