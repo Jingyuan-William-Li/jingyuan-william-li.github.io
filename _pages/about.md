@@ -11,7 +11,7 @@ Hello, nice to meet you online! My name is Jingyuan Li and you can call me Willi
 
 My Experience
 ------
-I am currently an junior analog integrated circuit design engineer at HUAXIN semiconductor basing Shanghai, China.
+I am currently a junior analog integrated circuit design enginneering at HUAXIN semiconductor basing Shanghai, China.
 
 In 2026, I became an M.S. honored by the University of California San Diego (UCSD, USNEWS 23), majoring in Electrical and Computer Engineering.
 

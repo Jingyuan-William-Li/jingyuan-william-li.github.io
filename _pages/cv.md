@@ -17,7 +17,7 @@ Education
   * Core Coures: Analog Integrated Circuits Design, CMOS Circuits Design, Communication Circuit Design, High-Speed Wireline Communication & Systems, Integrated Circuits Layout Design, Biomedical Integrated Circuits
 
 * B.Eng. in Electronic Information Engineering, [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/), 2024
-  * GPA: 3.8/4.0
+  * GPA: 3.8/4.0 (Qualified for postgraduate study without examination)
   * Core Courses: Calculus (4/4), Linear Algebra (4/4), Physics (4/4), Fundamental Analog Circuits (3.5/4), Advanced Digital Deigns and Logics (4/4), Signals and Systems (4/4), Electromagnetic Field and Mricrowave Technology (3.5/4), Final Year Project (4/4)
 
 * B.Eng. in Electronics and Electrical Engineering, [University of Glasgow](https://www.gla.ac.uk/), 2024
