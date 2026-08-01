@@ -5,7 +5,7 @@ type: "Summer School"
 permalink: /extrastudy/NTU
 venue: "Nanyang Technological University, Business AI Lab"
 date: 2022-09-06
-location: "Singapore (Online)"
+location: "Singapore"
 ---
 
 * Developed an CNN model aimed at classifying pneumonia pathogens using patients’ chest CT images.
