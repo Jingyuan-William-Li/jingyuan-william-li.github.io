@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, nice to meet you online! My name is Jingyuan Li and you can call me William! It is my great pleasure to share my experience and idea online with you! Hope that we can be good friends no matter online or personally!
+Hello, nice to meet you online! My name is Jingyuan Li and you can call me William! It is my great pleasure to share my experience and ideas online with you! Hope that we can be good friends no matter online or personally!
 
 My Experience
 ------
@@ -33,4 +33,6 @@ I was born in Jiangyou, China, which is also the birth place of the most famous 
 
 If I'm not a Student, I will Try to?
 ------
-Apart from having good academic records, community involvement is always the first things I consider. In school days, I spend over 300 hours to share my experience about study or student work with others. During my undergraduate study, I took the role of an advisor where I mentored a freshman class of 40 students from 2022, responsible for giving them academic and mental guidcance. To help my students well, I organized several workshops for them about university life navigation or specific topics like how to embedded programming and lab instrument operations. I like to help not only the people around me, but also people maybe I didn't know. In 2021, I served as a volunteer teacher in Tibet, teaching Tibetan students math, English and science, and I tried to continously helping the students there by using my scholarships I will always hold the belief that I should use the skills and techniques I have to help those people in need, and this goal will urge me to treat my study and work with 100% of focus and effort.
+Apart from having good academic records, community involvement is always the first things I consider. In school days, I spend over 300 hours to share my experience about study or student work with others. During the last 2 years of my undergraduate study, I took the role of an advisor where I mentored a freshman class of 40 students, responsible for giving them academic and mental guidcance. To help my students well, I organized several workshops for them about university life navigation or specific topics including embedded programming and lab instrument operations. 
+
+I like to help not only the people around me, but also people maybe I didn't know. In 2021, I served as a volunteer teacher in Tibet, teaching Tibetan students math, English and science, and I tried to continously helping the students there by using my scholarships. I will always hold the belief that I should use the skills and techniques I have to help those people in need, and this goal will urge me to treat my study and work with 100% of focus and effort.
