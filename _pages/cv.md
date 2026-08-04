@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Ciriculum Vitae"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -22,7 +22,7 @@ Education
 
 * B.Eng. in Electronics and Electrical Engineering, [University of Glasgow](https://www.gla.ac.uk/), 2024
   * GPA: 18.3/22 (First-Class Honors)
-  * Core Courses: Microelectronics Systems (A1), Circuits Analysis and Design (A5), Embedded Processors (A4), Electronics System and Deisgn (A2), Electronic Devices (A2), Dynamics and Control (A3), Artificial Intelligience and Machine Learning (A4), Power Electronics (B1), VLSI Design (A3), Information System (A4), Team Design Project (A3)
+  * Core Courses: Microelectronics Systems (A1), Circuits Analysis and Design (A5), Embedded Processors (A4), Electronics System and Deisgn (A2), Electronic Devices (A2), Dynamics and Control (A3), Artificial Intelligience and Machine Learning (A4), Power Electronics (A5), VLSI Design (A3), Information System (A4), Team Design Project (A3)
 
 Professional Experience
 ------
@@ -35,9 +35,9 @@ Skills
 ------
 * Circuits Design: Cadence Virtuoso, Verilog, Altium Designer, LTspice, HFSS
 * Programming: C/C++, Python, MATLAB & Simulink, ASM
-* Other Fields of Engineering: SolidWorks, Mbed
-* Working Effciency: Microsoft Office, Original Lab, Notion
-* Language: Chinese (Native), Engilish (Skillful), Japanese (Basic)
+* Other Fields of Engineering: SolidWorks, Mbed, Keil5
+* Working Effciency: Microsoft Office, Original Lab
+* Language: Chinese (Native), English (Skillful), Japanese (Basic)
 
 Publications
 ------
