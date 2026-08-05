@@ -12,32 +12,32 @@ redirect_from:
 
 Education
 -------
-* M.S. in Electrical and Computer Engineering, [University of Claifornia San Diego](https://www.ucsd.edu/), 2026
+* M.S. in Electrical and Computer Engineering, [University of California San Diego](https://www.ucsd.edu/), 2026
   * GPA: 3.6/4.0
-  * Core Coures: Analog Integrated Circuits Design, CMOS Circuits Design, Communication Circuit Design, High-Speed Wireline Communication & Systems, Integrated Circuits Layout Design, Biomedical Integrated Circuits
+  * Core Courses: Analog Integrated Circuit Design, CMOS Circuit Design, Communication Circuit Design, High-Speed Wireline Communications & Systems, Integrated Circuit Layout Design, Biomedical Integrated Circuits
 
 * B.Eng. in Electronic Information Engineering, [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/), 2024
   * GPA: 3.8/4.0 (Qualified for postgraduate study without examination)
-  * Core Courses: Calculus (4/4), Linear Algebra (4/4), Physics (4/4), Fundamental Analog Circuits (3.5/4), Advanced Digital Deigns and Logics (4/4), Signals and Systems (4/4), Electromagnetic Field and Mricrowave Technology (3.5/4), Final Year Project (4/4)
+  * Core Courses: Calculus (4/4), Linear Algebra (4/4), Physics (4/4), Fundamental Analog Circuits (3.5/4), Advanced Digital Design and Logic (4/4), Signals and Systems (4/4), Electromagnetic Fields and Microwave Technology (3.5/4), Final-Year Project (4/4)
 
 * B.Eng. in Electronics and Electrical Engineering, [University of Glasgow](https://www.gla.ac.uk/), 2024
   * GPA: 18.3/22 (First-Class Honors)
-  * Core Courses: Microelectronics Systems (A1), Circuits Analysis and Design (A5), Embedded Processors (A4), Electronics System and Deisgn (A2), Electronic Devices (A2), Dynamics and Control (A3), Artificial Intelligience and Machine Learning (A4), Power Electronics (A5), VLSI Design (A3), Information System (A4), Team Design Project (A3)
+  * Core Courses: Microelectronic Systems (A1), Circuit Analysis and Design (A5), Embedded Processors (A4), Electronic Systems and Design (A2), Electronic Devices (A2), Dynamics and Control (A3), Artificial Intelligence and Machine Learning (A4), Power Electronics (A5), VLSI Design (A3), Information Systems (A4), Team Design Project (A3)
 
 Professional Experience
 ------
-* Teaching Assistant @ UoGlagow/UESTC (Sep 2023 - Jun 2024)
-  * Monitored 3 courses, including Microelectronics Systems, Circuits Analysis & Design, and Embedded Processors, responsible for question feedback, course tutorial delivery and assignment evaluation, etc., covering over 1500 students.
-  * Conducted comprehensive reviews on lecture materials and customized mock final exam exercise. 
-  * Delivered lab instructions to students, including the utilization of SPICE software and basic applications of programming languages, etc.
+* Teaching Assistant @ UofG/UESTC (Sep 2023 - Jun 2024)
+  * Supported three courses—Microelectronic Systems, Circuit Analysis & Design, and Embedded Processors—by answering questions, delivering tutorials, and evaluating assignments for more than 1,500 students.
+  * Conducted comprehensive reviews of lecture materials and created customized mock final-exam exercises.
+  * Delivered laboratory instruction on the use of SPICE software and the fundamentals of programming languages.
 
 Skills
 ------
-* Circuits Design: Cadence Virtuoso, Verilog, Altium Designer, LTspice, HFSS
+* Circuit Design: Cadence Virtuoso, Verilog, Altium Designer, LTspice, HFSS
 * Programming: C/C++, Python, MATLAB & Simulink, ASM
 * Other Fields of Engineering: SolidWorks, Mbed, Keil5
-* Working Effciency: Microsoft Office, Original Lab
-* Language: Chinese (Native), English (Skillful), Japanese (Basic)
+* Productivity: Microsoft Office, OriginLab
+* Languages: Chinese (Native), English (Proficient), Japanese (Basic)
 
 Publications
 ------
@@ -51,7 +51,7 @@ Projects
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Extracurriculum
+Extracurricular Activities
 ------
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}

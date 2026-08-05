@@ -11,7 +11,7 @@ Hello, nice to meet you online! My name is Jingyuan Li and you can call me Willi
 
 My Experience
 ------
-I am currently a junior analog integrated circuit design engin at HUAXIN semiconductor basing Shanghai, China.
+I am currently a junior analog integrated circuit design engineer at HUAXIN semiconductor basing Shanghai, China.
 
 In 2026, I finished my master study at the University of California San Diego (UCSD, USNEWS 23), where I majored in Electrical & Computer Engineering (ECE) and focused on the analog & mixed-signal integrated design (Electronic Circuits & Systems) track.
 
@@ -21,7 +21,7 @@ Intrests & Skills
 ------
 My current career goal is to become a skilled Analog/Mixed-Signal IC designer in 3 years, with rich experience in designing high speed/freqz circuit modules.
 
-My previous study and research experience made me intrested in both analog and digital part of IC, where no matter the sophisticated physical characteristic of MOSFETs nor the diverse logic of circuits attracts me deeply. Till now, I am quite familiar with IC development tools like Verilog HDL, Altium Designer and Cadence Virtuoso, etc. Beyond curriculums, I also tried projects including RISC CPU design, Compute-In-Memory architecture design and circuits performance evaluation.
+My previous study and research experience made me intrested in both analog and digital parts of IC, where no matter the sophisticated physical characteristic of MOSFETs nor the diverse logic of circuits attracts me deeply. Till now, I am quite familiar with IC development tools like Verilog HDL, Altium Designer and Cadence Virtuoso, etc. Beyond curriculums, I also tried projects including RISC CPU design, Compute-In-Memory architecture design and circuits performance evaluation.
 
 Apart from circuits, my diverse international summer/winter school experiences helped me expand my skill radar chart in other ECE-related fields like Artificial Intelligence and Robotics, where I mastered the utilization and synchronization of Python, MATLAB/Simulink, OriginLab and SolidWorks, etc.
 
