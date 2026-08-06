@@ -29,7 +29,7 @@ Moreover, I am an excellent collaborator with years of experience in project org
 
 Another Me
 ------
-I was born in Jiangyou, China, which is also the birth place of the most famous Chinese ancient poet, Li Bai, and that might cultivate my  great interest in reading poems, ancient articles and other kinds of literature. Presently, I am in America so I am trying to continune this hobby in Engilish in order to improve my English skills. I am an energetic person and love anything exciting, so I like watching football and car race, where Chelsea and Scrudia Ferrari are my favorite teams. However, I also enjoy peaceful life. It is always my dream to take my camera with me to travel around the world alone and record a lot of beautiful and unforgettable things.
+I was born in Jiangyou, China, which is also the birth place of the most famous Chinese ancient poet, Li Bai, and that might cultivate my  great interest in reading poems, ancient articles and other kinds of literature. I am an energetic person and love anything exciting, so I like watching football and car race, where Chelsea and Scrudia Ferrari are my favorite teams. However, I also enjoy peaceful life. It is always my dream to take my camera with me to travel around the world alone and record a lot of beautiful and unforgettable things.
 
 If I'm not a Student, I will Try to?
 ------
